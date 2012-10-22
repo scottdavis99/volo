@@ -1,4 +1,4 @@
-volo
-====
+html5video
+==========
 
-Slides and source for Volo.js presentation
+Slides for Scott Davis' "What's up with HTML5 Video" presentation.
